@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adrika07
+- 👋 Hi, I’m Chandrika
 - 👀 I’m interested in Data Science , web development .
 - 🌱 I’m currently learning phython
 - 💞️ I’m looking to collaborate on ...
